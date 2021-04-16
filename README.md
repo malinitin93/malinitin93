@@ -30,14 +30,15 @@ Python | Java | JavaScript | HTML | CSS
 * Ask me about anything, I'll be happy to help.
 * 😄 Pronouns: He/Him
 
- <details>
-<p>📊 Github Stats</p>
+ 
+<summary>📊 Github Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malinitin93&show_icons=true&theme=gotham" alt="Nitin Mali | Stats" />
 
-</details>
 
-<p><b>Visitor Count:-</b></p>
+
+<p><b>Visitor Count</b></p>
+
  ![Visitor Count](https://profile-counter.glitch.me/{malinitin93}/count.svg)
  
  
