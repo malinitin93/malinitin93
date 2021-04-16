@@ -9,7 +9,7 @@ Python | Java | JavaScript | HTML | CSS
  <a href="https://twitter.com/malinitin93">
  <img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" width="100" height="132"></a>
  
- <a href="https://www.facebook.com/malinitin25">
+ <a href="https://www.facebook.com/ermalinitin93">
   <img height="30" src="https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
    
  <a href="https://www.youtube.com/channel/UC5EbmybSNkCG8BhAvs-epiQ">
@@ -24,8 +24,8 @@ Python | Java | JavaScript | HTML | CSS
  
 * Primary coding language: Python.
 * I’m currently working on my portfolio.
-* I am currently learning Docker
-* I'm looking to collaborate on Open source project for Hacktoberfest
+* I am currently learning Docker.
+* I'm looking to collaborate on Open source project.
 * Competitive Programmer 
 * Ask me about anything, I'll be happy to help.
 * 😄 Pronouns: He/Him
@@ -37,7 +37,7 @@ Python | Java | JavaScript | HTML | CSS
 
 </details>
 
-
+<h4>Visitor Count</4>
  ![Visitor Count](https://profile-counter.glitch.me/{malinitin93}/count.svg)
  
  
