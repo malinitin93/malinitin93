@@ -31,14 +31,13 @@ Python | Java | JavaScript | HTML | CSS
 * 😄 Pronouns: He/Him
 
  <details>
-<summary>📊 Github Stats</summary>
+<p>📊 Github Stats</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malinitin93&show_icons=true&theme=gotham" alt="Nitin Mali | Stats" />
 
 </details>
 
-
-
+<p><b>Visitor Count:-</b></p>
  ![Visitor Count](https://profile-counter.glitch.me/{malinitin93}/count.svg)
  
  
