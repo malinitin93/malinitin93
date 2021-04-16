@@ -13,7 +13,7 @@ Python | Java | JavaScript | HTML | CSS
   <img height="30" src="https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
    
   <a href="https://www.instagram.com/malinitin93">
-  <img height="30" src="https://img.shields.io/badge/instagram-036be4.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <img height="30" src="https://img.shields.io/badge/instagram-ff0066.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   
  <a href="https://www.youtube.com/channel/UC5EbmybSNkCG8BhAvs-epiQ">
   <img height="30" src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white"></a>
