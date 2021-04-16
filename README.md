@@ -37,7 +37,7 @@ Python | Java | JavaScript | HTML | CSS
 
 </details>
 
-<p><b>Visitor Count</b></p>
+
 
  ![Visitor Count](https://profile-counter.glitch.me/{malinitin93}/count.svg)
  
