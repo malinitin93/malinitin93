@@ -35,9 +35,7 @@ Python | Java | JavaScript | HTML | CSS
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malinitin93&show_icons=true&theme=gotham" alt="Nitin Mali | Stats" />
 
-
-
-<p><b>Visitor Count</b></p>
+<h4>Visitor Count</4>
 
  ![Visitor Count](https://profile-counter.glitch.me/{malinitin93}/count.svg)
  
