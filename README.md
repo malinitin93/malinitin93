@@ -15,7 +15,7 @@ Python | JavaScript | HTML | CSS
  <a href="https://www.instagram.com/malinitin93">
   <img height="30" src="https://img.shields.io/badge/instagram-ff0066.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   
-<!-- <a href="https://www.facebook.com/ermalinitin93">
+<!-- <a href="https://www.facebook.com/malinitin93">
   <img height="30" src="https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a> -->
    
 <br />
@@ -24,9 +24,10 @@ Python | JavaScript | HTML | CSS
  
 * Primary coding language: Python.
 * I’m currently working on my portfolio.
-* I am currently learning Docker.
+* I am currently learning DevOps.
 * I'm looking to collaborate on Open source project.
-* Competitive Programmer 
+* FullStack Web Developer.
+* Skills:Python,Java,JavaScript,React.js,Node.js.  
 * Ask me about anything, I'll be happy to help.
 * 😄 Pronouns: He/Him
 
