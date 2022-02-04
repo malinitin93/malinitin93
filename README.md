@@ -27,7 +27,8 @@ Python | JavaScript | HTML | CSS
 * I am currently learning DevOps.
 * I'm looking to collaborate on Open source project.
 * FullStack Web Developer.
-* Skills:Python,Java,JavaScript,React.js,Node.js.  
+* Skills:Python,Java,JavaScript,React.js,Node.js.
+*   
 * Ask me about anything, I'll be happy to help.
 * 😄 Pronouns: He/Him
 
