@@ -8,15 +8,6 @@ Python | JavaScript | HTML | CSS
   
  <a href="https://twitter.com/malinitin93">
  <img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" width="100" height="132"></a>
- 
-  <a href="https://www.youtube.com/channel/UC5EbmybSNkCG8BhAvs-epiQ">
-  <img height="30" src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white"></a>
-  
- <a href="https://www.instagram.com/malinitin93">
-  <img height="30" src="https://img.shields.io/badge/instagram-ff0066.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  
-<!-- <a href="https://www.facebook.com/malinitin93">
-  <img height="30" src="https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a> -->
    
 <br />
 <hr />
